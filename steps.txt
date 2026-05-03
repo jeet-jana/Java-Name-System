@@ -1,0 +1,5 @@
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
